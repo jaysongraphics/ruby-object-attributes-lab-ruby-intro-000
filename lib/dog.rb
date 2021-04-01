@@ -5,4 +5,3 @@ class Dog
        @bread =
        end
     end
-end
