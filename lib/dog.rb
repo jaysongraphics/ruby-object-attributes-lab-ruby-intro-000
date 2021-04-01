@@ -1,8 +1,6 @@
 class Dog
      def initialize (name)
-  @name = fido
-
-
+  @name = name
       def name
         @name
        def bread
@@ -11,3 +9,6 @@ class Dog
     end
    end
 end
+
+Fido = Dog.new ("fido")
+fido.name
