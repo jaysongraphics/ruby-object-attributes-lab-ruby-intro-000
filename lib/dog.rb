@@ -3,7 +3,6 @@ class Dog
         @name
        def bread
        @bread
-
       end
     end
    end
