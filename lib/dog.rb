@@ -1,4 +1,4 @@
-class Name
+class Dog
   def Dog
     @name = name
      def bread
