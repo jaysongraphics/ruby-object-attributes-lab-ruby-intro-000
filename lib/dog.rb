@@ -1,6 +1,6 @@
 class Dog
         def name
-          @name = Fido
+          @name = 
           def bread
        @bread =
        end
