@@ -1,7 +1,7 @@
 class Dog
-  def name=(name)
+  def name(name)
   @name = name
-    def bread=(bread)
+    def bread(bread)
       @bread = bread
     end
   end
