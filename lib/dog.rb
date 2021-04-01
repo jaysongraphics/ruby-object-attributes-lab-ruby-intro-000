@@ -1,8 +1,8 @@
 class Name
-  def name
-    @Dog = name
+  def Dog
+    @name = name
      def bread
-    @Dog = bread
+    @name = bread
     end
   end
 end
