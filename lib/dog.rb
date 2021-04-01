@@ -1,4 +1,4 @@
-class Dog
+class Name
 
   def name
     @name = name
@@ -7,4 +7,4 @@ end
 
 Fido = Name.new
 
-class 
+class
