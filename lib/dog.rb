@@ -1,11 +1,8 @@
 class Dog
   def Dog
-    @name = name
+    @name = Fido
      def bread
     @name = bread
     end
   end
 end
-
-
-Fido = Dog.new
