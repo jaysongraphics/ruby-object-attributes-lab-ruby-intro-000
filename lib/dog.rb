@@ -3,7 +3,6 @@ class Dog
   @name = name
       def name
         @name = fido
-        
        def bread
        @bread = bread
       end
