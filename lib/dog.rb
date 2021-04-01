@@ -3,4 +3,6 @@ class Dog
           @name = Fido
           def bread
        @bread =
- end
+       end
+    end
+end
