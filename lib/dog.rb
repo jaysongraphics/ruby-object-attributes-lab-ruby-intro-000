@@ -1,5 +1,5 @@
 class Dog
-      def name (name)
+      def name
         @name = name
        def bread
        @name = bread
