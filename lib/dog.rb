@@ -3,10 +3,8 @@ class Name
   def name
     @name = name
   end
-  def bread
+     def bread
     @bread = bread
-
+    end
   end
 end
-
-Fido = Name.new
