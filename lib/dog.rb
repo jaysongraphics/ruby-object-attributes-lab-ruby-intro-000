@@ -1,10 +1,12 @@
 class Dog
      def initialize (name)
   @name = name
-      def name
-        @name = fido
+
+      def name = (new_name)
+        @name  = new_name
        def bread
-       @bread = bread
+       @bread
+
       end
     end
    end
